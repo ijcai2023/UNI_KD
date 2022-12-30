@@ -87,5 +87,5 @@ python proposed_uda_kd.py  --experiment_description exp1  \
                 --num_runs 3 \
 ```
 
-###Claims
+## Claims
 Part of benchmark methods code are from [AdaTime](https://github.com/emadeldeen24/AdaTime)
