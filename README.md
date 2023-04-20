@@ -1,4 +1,4 @@
-# Unsupervised Domain Adaptation with Distilling Generalized Knowledge for Time Series Data
+# Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data
 
 **UNI_KD** is a PyTorch implementation for Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data. 
 
