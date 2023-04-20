@@ -1,6 +1,6 @@
 # Unsupervised Domain Adaptation with Distilling Generalized Knowledge for Time Series Data
 
-**UDA_KD** is a PyTorch implementation for unsupervised domain adaptation and knowledge distillation for time series data. 
+**UNI_KD** is a PyTorch implementation for Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data. 
 
 # Disclaimer: This work is for research only and not for commercial use!
 
