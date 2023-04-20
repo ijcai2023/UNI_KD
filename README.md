@@ -1,6 +1,6 @@
 # Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data
 
-**UNI_KD** is a PyTorch implementation for Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data. 
+**UNI_KD** is a PyTorch implementation for IJCAI 2023 Papaer "Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data". 
 
 # Disclaimer: This work is for research only and not for commercial use!
 
