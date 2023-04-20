@@ -68,7 +68,7 @@ python jku_mobileda_aad.py  --experiment_description exp1  \
                 --num_runs 3 \
 ```
 
-## Runing Proposed UDA_KD Algorithm
+## Runing Proposed UNI-KD Algorithm
 
 ### Teacher training
 Our approach requires a pre-trained teacher. We utilize DANN method to train a teacher and store them in 'experiments_logs/HAR/Teacher_CNN'.
